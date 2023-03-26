@@ -11,7 +11,7 @@ export DT_LINK="https://github.com/Killaker/android_device_bq_jeice.git" # devic
 export DT_BRANCH="jeice_bq-user-8.1.0-OPM1.171019.026-2419-release-keys" # device tree branch
 export VENDOR="bq" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
-export TYPE="omni" # recovery type: omni, twrp, something else
+export TYPE="omni_" # recovery type: omni, twrp, something else
 
 # you dont need to edit these
 export SYM="_"
